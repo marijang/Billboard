@@ -1,4 +1,0 @@
-Billboard
-=========
-
-Billboard Pyrocms
